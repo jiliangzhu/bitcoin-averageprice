@@ -1,0 +1,15 @@
+{
+  "name": "bitcoin-average-price",
+  "version": "1.0.0",
+  "description": "compute the bicoin average price over the past 7 days",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[\"btc\"",
+    "\"price\"]"
+  ],
+  "author": "jayzhu",
+  "license": "ISC"
+}
